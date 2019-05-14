@@ -1,0 +1,4 @@
+﻿  sorts.cpp
+c:\users\leogr\onedrive\documents\freshman_year_ucla\quarter2\cs32\hw4\hw4\sorts.cpp(138): warning C4018: '<': signed/unsigned mismatch
+c:\users\leogr\onedrive\documents\freshman_year_ucla\quarter2\cs32\hw4\hw4\sorts.cpp(272): warning C4018: '<': signed/unsigned mismatch
+  hw4.vcxproj -> C:\Users\leogr\OneDrive\Documents\Freshman_Year_UCLA\Quarter2\CS32\hw4\Debug\hw4.exe
